@@ -6,7 +6,7 @@
 
 **I will post my progress on twitter and i will write a log everyday.**
 
-Start Date: 03.11.2019
+Start Date: 2019-01-03
 
 End Date: -----
 

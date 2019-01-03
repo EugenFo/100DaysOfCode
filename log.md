@@ -2,11 +2,11 @@
 
 ## Day 1: January 3, 2019
 
-**Today's Progress**: This is an Example
+**Today's Progress**: Started to learn the basics of Golang with the [Tour of Golang](https://tour.golang.org). Functions, declaration and scope of variables, type inference, type conversion and a bit about Printf() function.
 
-**Thoughts**: This is an Example
+**Thoughts**: A lot of the basics aren't new to me. Syntax is diffrent, but I'm getting used to it.
 
-**Link to Work**: [Exercises](GithubLink)
+**Link to Work**:
 
 ---
 
