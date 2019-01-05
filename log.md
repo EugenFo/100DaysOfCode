@@ -22,11 +22,11 @@
 
 ## Day 3: January 5, 2019
 
-**Today's Progress**:
+**Today's Progress**: Deeper look into defer, panic and recover. Understood that it is very useful, when it comes to error handeling. Pointers. Pointers everywhere. And a tiny bit of struct
 
-**Thoughts**:
+**Thoughts**: Learned that pointers are not difficult, but I need a better understanding, when to use them. Learned that Go has no classes, but struct instead.
 
-**Link to Work**:
+**Link to Work**: [Day 3](https://github.com/EugenFo/100DaysOfCode/tree/master/day3 "Day3")
 
 ---
 
