@@ -32,11 +32,11 @@
 
 ## Day 4: January 6, 2019
 
-**Today's Progress**:
+**Today's Progress**: Arrays, slices, make and maps. Still learning with Tour of Go.
 
-**Thoughts**:
+**Thoughts**: Everyday a bit of progress. Need still to learn a lot.
 
-**Link to Work**:
+**Link to Work**: [Day 4](https://github.com/EugenFo/100DaysOfCode/tree/master/day4 "Day4")
 
 ---
 
