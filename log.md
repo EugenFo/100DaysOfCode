@@ -42,6 +42,66 @@
 
 ## Day 5: January 7, 2019
 
+**Today's Progress**: Learned about methods, value and pointer receivers, value and pointer arguments.
+
+**Thoughts**: Methods in Go works a bit diffrent than in other OOP Languages, because Go has no classes.  
+
+**Link to Work**: [Day 5](https://github.com/EugenFo/100DaysOfCode/tree/master/day5 "Day5")
+
+---
+
+## Day 6: January 8, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 7: January 9, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 8: January 10, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 9: January 11, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 10: January 12, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 11: January 13, 2019
+
 **Today's Progress**:
 
 **Thoughts**:
