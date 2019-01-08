@@ -52,11 +52,11 @@
 
 ## Day 6: January 8, 2019
 
-**Today's Progress**:
+**Today's Progress**: Only interfaces today.
 
-**Thoughts**:
+**Thoughts**: It's difficult to understand the concept of interfaces in Go. Maybe because I never worked with interfaces before. I get kinda the idea behind it, but I definitly need more practice with interfaces.
 
-**Link to Work**:
+**Link to Work**: [Day 6](https://github.com/EugenFo/100DaysOfCode/tree/master/day6 "Day6")
 
 ---
 
