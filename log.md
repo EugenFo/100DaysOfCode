@@ -62,11 +62,11 @@
 
 ## Day 7: January 9, 2019
 
-**Today's Progress**:
+**Today's Progress**: Again Interfaces
 
-**Thoughts**:
+**Thoughts**: Got a better understanding when and why to use interfaces. The best way to practice such things is if you use them in real projects, I guess.
 
-**Link to Work**:
+**Link to Work**: [Day 7](https://github.com/EugenFo/100DaysOfCode/tree/master/day7 "Day7")
 
 ---
 
