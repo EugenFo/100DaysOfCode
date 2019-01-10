@@ -72,11 +72,11 @@
 
 ## Day 8: January 10, 2019
 
-**Today's Progress**:
+**Today's Progress**: Goroutines and a bit of Channels and Closures
 
-**Thoughts**:
+**Thoughts**: Really interessting how goroutines work and how you can speed up your Go program. [Really good Goroutine Article](https://medium.com/@vigneshsk/how-to-write-high-performance-code-in-golang-using-go-routines-227edf979c3c)
 
-**Link to Work**:
+**Link to Work**: [Day 8](https://github.com/EugenFo/100DaysOfCode/tree/master/day8 "Day8")
 
 ---
 
