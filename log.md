@@ -82,11 +82,11 @@
 
 ## Day 9: January 11, 2019
 
-**Today's Progress**:
+**Today's Progress**: unbuffered and buffered channels, how channels create a Deadlock and how to avoid this
 
-**Thoughts**:
+**Thoughts**: Goroutines and channels just belong together. And that's not that difficult to understand.
 
-**Link to Work**:
+**Link to Work**: [Day 9](https://github.com/EugenFo/100DaysOfCode/tree/master/day9 "Day9")
 
 ---
 
