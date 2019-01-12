@@ -92,11 +92,11 @@
 
 ## Day 10: January 12, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did not much Progress today. Just implemented bubblesort in Go.
 
-**Thoughts**:
+**Thoughts**: I already implemented a bubblesort algorithm in JavaScript. So I just translated it into Go.
 
-**Link to Work**:
+**Link to Work**: [Day 10](https://github.com/EugenFo/100DaysOfCode/tree/master/day10 "Day10")
 
 ---
 
