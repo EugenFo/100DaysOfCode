@@ -102,10 +102,10 @@
 
 ## Day 11: January 13, 2019
 
-**Today's Progress**:
+**Today's Progress**: Theory of mergesort and started to implement it.
 
-**Thoughts**:
+**Thoughts**: Theory is quite simple, but implementation is not so simple.
 
-**Link to Work**:
+**Link to Work**: [Day 11](https://github.com/EugenFo/100DaysOfCode/tree/master/day11 "Day11")
 
 ---
