@@ -109,3 +109,53 @@
 **Link to Work**: [Day 11](https://github.com/EugenFo/100DaysOfCode/tree/master/day11 "Day11")
 
 ---
+
+## Day 12: January 14, 2019
+
+**Today's Progress**: Worked again at mergesort
+
+**Thoughts**: The algorithm can cut the slice into multiple halves, but it can't put them together into the right order...
+
+**Link to Work**: [Day 11-12](https://github.com/EugenFo/100DaysOfCode/tree/master/day11-12 "Day11-12")
+
+---
+
+## Day 13: January 15, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 14: January 16, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 15: January 17, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 16: January 18, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
