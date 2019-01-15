@@ -6,7 +6,7 @@
 
 **Thoughts**: A lot of the basics aren't new to me. Syntax is diffrent, but I'm getting used to it.
 
-**Link to Work**: [Day 1](https://github.com/EugenFo/100DaysOfCode/tree/master/day1 "Day1")
+**Link to Work**: [Day 1](https://github.com/EugenFo/100DaysOfCode/tree/master/day001 "Day1")
 
 ---
 
@@ -16,7 +16,7 @@
 
 **Thoughts**: It's interesting that Go has "only" the for loop. Switch case statements, well the only thing that is new for me is that you don't need to put a break in every case. Defer keyword is really new to me and it's quite weird, but I see the power of it. Tomorrow I have to look up panic, recover and a deeper dive into defer.
 
-**Link to Work**: [Day 2](https://github.com/EugenFo/100DaysOfCode/tree/master/day2 "Day2")
+**Link to Work**: [Day 2](https://github.com/EugenFo/100DaysOfCode/tree/master/day002 "Day2")
 
 ---
 
@@ -26,7 +26,7 @@
 
 **Thoughts**: Learned that pointers are not difficult, but I need a better understanding, when to use them. Learned that Go has no classes, but struct instead.
 
-**Link to Work**: [Day 3](https://github.com/EugenFo/100DaysOfCode/tree/master/day3 "Day3")
+**Link to Work**: [Day 3](https://github.com/EugenFo/100DaysOfCode/tree/master/day003 "Day3")
 
 ---
 
@@ -36,7 +36,7 @@
 
 **Thoughts**: Everyday a bit of progress. Need still to learn a lot.
 
-**Link to Work**: [Day 4](https://github.com/EugenFo/100DaysOfCode/tree/master/day4 "Day4")
+**Link to Work**: [Day 4](https://github.com/EugenFo/100DaysOfCode/tree/master/day004 "Day4")
 
 ---
 
@@ -46,7 +46,7 @@
 
 **Thoughts**: Methods in Go works a bit diffrent than in other OOP Languages, because Go has no classes.  
 
-**Link to Work**: [Day 5](https://github.com/EugenFo/100DaysOfCode/tree/master/day5 "Day5")
+**Link to Work**: [Day 5](https://github.com/EugenFo/100DaysOfCode/tree/master/day005 "Day5")
 
 ---
 
@@ -56,7 +56,7 @@
 
 **Thoughts**: It's difficult to understand the concept of interfaces in Go. Maybe because I never worked with interfaces before. I get kinda the idea behind it, but I definitly need more practice with interfaces.
 
-**Link to Work**: [Day 6](https://github.com/EugenFo/100DaysOfCode/tree/master/day6 "Day6")
+**Link to Work**: [Day 6](https://github.com/EugenFo/100DaysOfCode/tree/master/day006 "Day6")
 
 ---
 
@@ -66,7 +66,7 @@
 
 **Thoughts**: Got a better understanding when and why to use interfaces. The best way to practice such things is if you use them in real projects, I guess.
 
-**Link to Work**: [Day 7](https://github.com/EugenFo/100DaysOfCode/tree/master/day7 "Day7")
+**Link to Work**: [Day 7](https://github.com/EugenFo/100DaysOfCode/tree/master/day007 "Day7")
 
 ---
 
@@ -76,7 +76,7 @@
 
 **Thoughts**: Really interessting how goroutines work and how you can speed up your Go program. [Really good Goroutine Article](https://medium.com/@vigneshsk/how-to-write-high-performance-code-in-golang-using-go-routines-227edf979c3c)
 
-**Link to Work**: [Day 8](https://github.com/EugenFo/100DaysOfCode/tree/master/day8 "Day8")
+**Link to Work**: [Day 8](https://github.com/EugenFo/100DaysOfCode/tree/master/day008 "Day8")
 
 ---
 
@@ -86,7 +86,7 @@
 
 **Thoughts**: Goroutines and channels just belong together. And that's not that difficult to understand.
 
-**Link to Work**: [Day 9](https://github.com/EugenFo/100DaysOfCode/tree/master/day9 "Day9")
+**Link to Work**: [Day 9](https://github.com/EugenFo/100DaysOfCode/tree/master/day009 "Day9")
 
 ---
 
@@ -96,7 +96,7 @@
 
 **Thoughts**: I already implemented a bubblesort algorithm in JavaScript. So I just translated it into Go.
 
-**Link to Work**: [Day 10](https://github.com/EugenFo/100DaysOfCode/tree/master/day10 "Day10")
+**Link to Work**: [Day 10](https://github.com/EugenFo/100DaysOfCode/tree/master/day010 "Day10")
 
 ---
 
@@ -106,7 +106,7 @@
 
 **Thoughts**: Theory is quite simple, but implementation is not so simple.
 
-**Link to Work**: [Day 11](https://github.com/EugenFo/100DaysOfCode/tree/master/day11 "Day11")
+**Link to Work**: [Day 11](https://github.com/EugenFo/100DaysOfCode/tree/master/day011-012 "Day11")
 
 ---
 
@@ -116,17 +116,17 @@
 
 **Thoughts**: The algorithm can cut the slice into multiple halves, but it can't put them together into the right order...
 
-**Link to Work**: [Day 11-12](https://github.com/EugenFo/100DaysOfCode/tree/master/day11-12 "Day11-12")
+**Link to Work**: [Day 12](https://github.com/EugenFo/100DaysOfCode/tree/master/day011-012 "Day12")
 
 ---
 
 ## Day 13: January 15, 2019
 
-**Today's Progress**:
+**Today's Progress**: Finished merge sort and learned a bit about the workspace and package management in golang.
 
-**Thoughts**:
+**Thoughts**: My Problem with merge sort was that I didn't really passed the write variable from one function to another, because my return was wrong. It was only this bug. But I'm still not quite sure when and where to use the return function.
 
-**Link to Work**:
+**Link to Work**: [Day 13](https://github.com/EugenFo/100DaysOfCode/tree/master/day011-013 "Day13")
 
 ---
 

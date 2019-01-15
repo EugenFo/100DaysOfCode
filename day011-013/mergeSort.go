@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func mergeSort(arr []int) {
+func mergeSort(arr []int) []int {
 	// checks if the array length is 1
 	if len(arr) <= 1 {
-		return
+		return arr
 	}
 	// creates array for left and right side
 	leftArray := []int{}
@@ -19,29 +19,28 @@ func mergeSort(arr []int) {
 
 	// appends right array values to the rightArray
 	for i := (middle / 2); i < middle; i++ {
-		// fmt.Println(i)
-		// fmt.Println(len(arr))
 		rightArray = append(rightArray, arr[i])
 	}
-	fmt.Println("Before recursion", leftArray, rightArray)
-	mergeSort(leftArray)
-	mergeSort(rightArray)
-	fmt.Println("after recursion", leftArray, rightArray)
 
-	merge(leftArray, rightArray)
+	// THIS WAS THE PROBLEM!!!!
+	return merge(mergeSort(leftArray), mergeSort(rightArray))
 }
 
 // merge every halve of the array
-func merge(leftArray, rightArray []int) (result []int) {
+func merge(leftArray, rightArray []int) []int {
 
 	// creates empty slice
-	result = []int{}
+	result := []int{}
 
-	// size := len(leftArray) + len(rightArray)
 	leftLength := len(leftArray)
 	rightLength := len(rightArray)
 
+	// While Size of an Slice is greater than 0
 	for leftLength > 0 && rightLength > 0 {
+
+		// if first value of leftArray is less equal than first value of rightArray
+		// then append leftArray value to result Slice and cut the appended value of
+		// else append the rightArray value to result Slice
 		if leftArray[0] <= rightArray[0] {
 			result = append(result, leftArray[0])
 			leftArray = leftArray[1:]
@@ -53,16 +52,19 @@ func merge(leftArray, rightArray []int) (result []int) {
 		}
 
 	}
+
+	// if length of leftArray is greater than 0
+	// append every item of leftArray into result
 	if leftLength > 0 {
 		result = append(result, leftArray...)
 	} else if rightLength > 0 {
 		result = append(result, rightArray...)
 	}
-	fmt.Println(result)
-	return
+	return result
 }
 
 func main() {
-	arr := []int{3, 6, 4, 8, 1, 2, 0}
-	mergeSort(arr)
+	arr := []int{3, 6, 4, 8, 1, 2, 0, 10, 1}
+	fmt.Println("Unsorted Slice:", arr)
+	fmt.Println("Sorted Slice:", mergeSort(arr))
 }
