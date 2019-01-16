@@ -132,11 +132,11 @@
 
 ## Day 14: January 16, 2019
 
-**Today's Progress**:
+**Today's Progress**: Since I'm not at my normal dev environment I learned a bit about encoding and decoding of JSON in the golang playground
 
-**Thoughts**:
+**Thoughts**: At the beginning it was difficult to understand how this works in Go. But the more I work with it the better I understood it.
 
-**Link to Work**:
+**Link to Work**: [Day 14](https://github.com/EugenFo/100DaysOfCode/tree/master/day014 "Day14")
 
 ---
 
