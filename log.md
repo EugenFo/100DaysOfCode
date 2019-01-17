@@ -142,11 +142,11 @@
 
 ## Day 15: January 17, 2019
 
-**Today's Progress**:
+**Today's Progress**: Day number 2 that I'm not at my normal dev environment. Learned a bit more on maps and sort()
 
-**Thoughts**:
+**Thoughts**: Still learning the basic stuff, but soon I need to work on a real project. But before that I have to learn something about creating a webserver in Go. 
 
-**Link to Work**:
+**Link to Work**: [Day 15](https://github.com/EugenFo/100DaysOfCode/tree/master/day015 "Day15")
 
 ---
 
