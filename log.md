@@ -152,6 +152,46 @@
 
 ## Day 16: January 18, 2019
 
+**Today's Progress**: Started to learn about creating a web server with Go.
+
+**Thoughts**: The basic things aren't new to me since I already created simple webservers with Node.js and the Flask library in Python. But still in Go it's diffrent.
+
+**Link to Work**: [Day 16](https://github.com/EugenFo/100DaysOfCode/tree/master/day016 "Day16")
+
+---
+
+## Day 17: January 19, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 18: January 20, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 19: January 21, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 20: January 22, 2019
+
 **Today's Progress**:
 
 **Thoughts**:
