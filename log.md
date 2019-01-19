@@ -162,11 +162,11 @@
 
 ## Day 17: January 19, 2019
 
-**Today's Progress**:
+**Today's Progress**: Again net/http library in Go.
 
-**Thoughts**:
+**Thoughts**: Worked with [this good article](https://golang.org/doc/articles/wiki/). Learned a lot about error handling, write and read files and redirect.  
 
-**Link to Work**:
+**Link to Work**: [Day 17](https://github.com/EugenFo/100DaysOfCode/tree/master/day017 "Day17")
 
 ---
 
