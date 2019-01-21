@@ -170,7 +170,17 @@
 
 ---
 
-## Day 18: January 20, 2019
+## Day 18: January 21, 2019
+
+**Today's Progress**: Mutual exclusion aka mutex.
+
+**Thoughts**: Should have learned it earlier, when I dealt with goroutines and channels. Oh and I skipped yesterday...
+
+**Link to Work**: [Day 18](https://github.com/EugenFo/100DaysOfCode/tree/master/day018 "Day18")
+
+---
+
+## Day 19: January 22, 2019
 
 **Today's Progress**:
 
@@ -180,17 +190,7 @@
 
 ---
 
-## Day 19: January 21, 2019
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link to Work**:
-
----
-
-## Day 20: January 22, 2019
+## Day 20: January 23, 2019
 
 **Today's Progress**:
 
