@@ -182,11 +182,11 @@
 
 ## Day 19: January 22, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did 2 easy Challenges from [Daily Programmer](https://reddit.com/r/dailyprogrammer)
 
-**Thoughts**:
+**Thoughts**: Those challenges were not that difficult. In the first challenge I struggled a bit to get the string into a slice, since I didn't found any library for this. Challenge #2 was also easy.
 
-**Link to Work**:
+**Link to Work**: [Day 19](https://github.com/EugenFo/100DaysOfCode/tree/master/day019 "Day19")
 
 ---
 
