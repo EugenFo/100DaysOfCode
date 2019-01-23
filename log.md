@@ -192,10 +192,10 @@
 
 ## Day 20: January 23, 2019
 
-**Today's Progress**:
+**Today's Progress**: 1 challenge again from [Daily Programmer](https://reddit.com/r/dailyprogrammer), but I'm not finished yet...
 
-**Thoughts**:
+**Thoughts**: I really struggle with sorting a map by value... 
 
-**Link to Work**:
+**Link to Work**: [Day 20](https://github.com/EugenFo/100DaysOfCode/tree/master/day020 "Day20")
 
 ---
