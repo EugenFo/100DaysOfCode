@@ -196,6 +196,76 @@
 
 **Thoughts**: I really struggle with sorting a map by value... 
 
-**Link to Work**: [Day 20](https://github.com/EugenFo/100DaysOfCode/tree/master/day020 "Day20")
+**Link to Work**: [Day 20](https://github.com/EugenFo/100DaysOfCode/tree/master/day020-021 "Day20")
+
+---
+
+## Day 21: January 24, 2019
+
+**Today's Progress**: Fixed the problem with the sorting of a map by its values.
+
+**Thoughts**: In fact, I used a workaround by creating a struct and copying the keys and values of the map into the struct. Did not much today, just this fix.
+
+**Link to Work**: [Day 21](https://github.com/EugenFo/100DaysOfCode/tree/master/day020-021 "Day21")
+
+---
+
+## Day 22: January 25, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 23: January 26, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 24: January 27, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 25: January 28, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 26: January 29, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
+
+---
+
+## Day 27: January 30, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to Work**:
 
 ---
