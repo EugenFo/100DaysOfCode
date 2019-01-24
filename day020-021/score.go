@@ -1,6 +1,8 @@
 package main
 
 import (
+	"fmt"
+	"sort"
 	"strings"
 	"unicode"
 )
@@ -21,25 +23,32 @@ func scoreCalc(s string) {
 	sorting(score)
 }
 
-/* func sorting(m map[string]int) {
-	fmt.Println(m)
-	sa := map[int]string{}
-	sl := []int{}
-	for k, v := range m {
-		sa[v] = k
-		sl = append(sl, v)
+func sorting(m map[string]int) {
+	type kv struct {
+		key   string
+		value int
 	}
-	fmt.Println(sa, sl)
-	sort.Ints(sl)
-	fmt.Println("after sort:", sl)
 
-	for _, v := range sl {
-		fmt.Println(sa[v], v)
+	var sa []kv
+
+	for k, v := range m {
+		sa = append(sa, kv{k, v})
 	}
-} */
+
+	sort.Slice(sa, func(i, j int) bool {
+		return sa[i].value > sa[j].value
+	})
+
+	for _, kv := range sa {
+		fmt.Printf("%s:%d, ", kv.key, kv.value)
+	}
+	fmt.Println("")
+}
 
 func main() {
+	scoreCalc("abcde")
 	scoreCalc("dbbaCEDbdAacCEAadcB")
+	scoreCalc("EbAAdbBEaBaaBBdAccbeebaec")
 }
 
 // https://www.reddit.com/r/dailyprogrammer/comments/8jcffg/20180514_challenge_361_easy_tally_program/
