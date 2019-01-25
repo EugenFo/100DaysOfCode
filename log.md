@@ -212,11 +212,11 @@
 
 ## Day 22: January 25, 2019
 
-**Today's Progress**:
+**Today's Progress**: Today I used the AWS SDK for Go and created a bucket, list all Items of a bucket, uploaded and downloaded an item from and to a bucket.
 
-**Thoughts**:
+**Thoughts**: It is really cool to use the SDK from AWS to handle all the API requests via Go. And that's easy to understand.
 
-**Link to Work**:
+**Link to Work**: [Day 22](https://github.com/EugenFo/100DaysOfCode/tree/master/day022 "Day22")
 
 ---
 
