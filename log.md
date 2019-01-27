@@ -144,7 +144,7 @@
 
 **Today's Progress**: Day number 2 that I'm not at my normal dev environment. Learned a bit more on maps and sort()
 
-**Thoughts**: Still learning the basic stuff, but soon I need to work on a real project. But before that I have to learn something about creating a webserver in Go. 
+**Thoughts**: Still learning the basic stuff, but soon I need to work on a real project. But before that I have to learn something about creating a webserver in Go.
 
 **Link to Work**: [Day 15](https://github.com/EugenFo/100DaysOfCode/tree/master/day015 "Day15")
 
@@ -194,7 +194,7 @@
 
 **Today's Progress**: 1 challenge again from [Daily Programmer](https://reddit.com/r/dailyprogrammer), but I'm not finished yet...
 
-**Thoughts**: I really struggle with sorting a map by value... 
+**Thoughts**: I really struggle with sorting a map by value...
 
 **Link to Work**: [Day 20](https://github.com/EugenFo/100DaysOfCode/tree/master/day020-021 "Day20")
 
@@ -220,7 +220,17 @@
 
 ---
 
-## Day 23: January 26, 2019
+## Day 23: January 27, 2019
+
+**Today's Progress**: Skipped last day, but did some Theory on how my URL shortener app should work. Today I learned CRUD operations in Go with the mux package.
+
+**Thoughts**: Just leanered a bit RESTApi operations in go. Watched the [Video](https://www.youtube.com/watch?v=SonwZ6MF5BE) from Brad Traversy. Really good introduction in mux.
+
+**Link to Work**: [Day 23](https://github.com/EugenFo/100DaysOfCode/tree/master/day023 "Day23")
+
+---
+
+## Day 24: January 28, 2019
 
 **Today's Progress**:
 
@@ -230,7 +240,7 @@
 
 ---
 
-## Day 24: January 27, 2019
+## Day 25: January 29, 2019
 
 **Today's Progress**:
 
@@ -240,7 +250,7 @@
 
 ---
 
-## Day 25: January 28, 2019
+## Day 26: January 30, 2019
 
 **Today's Progress**:
 
@@ -250,17 +260,7 @@
 
 ---
 
-## Day 26: January 29, 2019
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link to Work**:
-
----
-
-## Day 27: January 30, 2019
+## Day 27: January 31, 2019
 
 **Today's Progress**:
 
