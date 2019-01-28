@@ -232,11 +232,11 @@
 
 ## Day 24: January 28, 2019
 
-**Today's Progress**:
+**Today's Progress**: Started to code my url-shortener website. Did some basic RESTApi stuff, what I learned yesterday.
 
-**Thoughts**:
+**Thoughts**: I'm thinking about on what and how to implement things. That's why I already have lot of comments. Also I'm not working directly on the master branch(which don't exists yet).
 
-**Link to Work**:
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
 
