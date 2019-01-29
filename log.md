@@ -242,11 +242,11 @@
 
 ## Day 25: January 29, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked today on the save Function 
 
-**Thoughts**:
+**Thoughts**: Need to evaluate which hash or encoder to use. With SHA256 or base64 the short Url would be... well not short. Maybe SHA1?
 
-**Link to Work**:
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
 
