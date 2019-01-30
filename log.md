@@ -252,11 +252,11 @@
 
 ## Day 26: January 30, 2019
 
-**Today's Progress**:
+**Today's Progress**: Make a lot of progress for the save Function.
 
-**Thoughts**:
+**Thoughts**: I decided to use the unix timestamp and SHA1 for hashing even if it's not the appropriate way. Need to change it later. It would cost much more time to code it. At the moment I just need a function that saves some data, so I now, that the base function works!
 
-**Link to Work**:
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
 
