@@ -242,7 +242,7 @@
 
 ## Day 25: January 29, 2019
 
-**Today's Progress**: Worked today on the save Function 
+**Today's Progress**: Worked today on the save Function
 
 **Thoughts**: Need to evaluate which hash or encoder to use. With SHA256 or base64 the short Url would be... well not short. Maybe SHA1?
 
@@ -262,10 +262,10 @@
 
 ## Day 27: January 31, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked on the redirectFunction
 
-**Thoughts**:
+**Thoughts**: 2 Problem here. 1. I can't really select an value in a slice like in a map. 2. the redirect function is not working like it should be. So I really need to implement mongoDB soon.
 
-**Link to Work**:
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
