@@ -269,3 +269,14 @@
 **Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
+
+## Day 28: Februray 2, 2019
+
+**Today's Progress**: Finally I managed to redirect to another page.
+
+**Thoughts**: Problem was, that I just typed something like "www.google.com". The Redirect function thought that it's something that is redirected internally, not to another page. Solution was to add the http protocol...
+Next step is to deal with MongoDB!
+
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
+
+---
