@@ -280,3 +280,11 @@ Next step is to deal with MongoDB!
 **Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
+
+## Day 29: February 3, 2019
+
+**Today's Progress**: Today I learned how to use MongoDB with golang.
+
+**Thoughts**: Didn't work on the project, because I checked out how the Mongodb Driver works.
+
+**Link to Work**: [Day 29](https://github.com/EugenFo/100DaysOfCode/tree/master/day029 "Day29")
