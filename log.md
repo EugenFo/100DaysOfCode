@@ -288,3 +288,13 @@ Next step is to deal with MongoDB!
 **Thoughts**: Didn't work on the project, because I checked out how the Mongodb Driver works.
 
 **Link to Work**: [Day 29](https://github.com/EugenFo/100DaysOfCode/tree/master/day029 "Day29")
+
+---
+
+## Day 30: February 4, 2019
+
+**Today's Progress**: Started to implement MongoDB as backend storage
+
+**Thoughts**: I guess I need to export the mongoDB save and query functions into its own package. Code looks messy...
+
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
