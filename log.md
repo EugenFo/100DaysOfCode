@@ -298,3 +298,55 @@ Next step is to deal with MongoDB!
 **Thoughts**: I guess I need to export the mongoDB save and query functions into its own package. Code looks messy...
 
 **Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
+
+---
+
+## Day 31: February 5, 2019
+
+**Today's Progress**: Worked on writing an auto increment function for the id. 
+
+**Thoughts**: I'm not really using the _id field from MongoDB. I want to see at the first sight the amount of entries. It took a long time to look up how the filter argument of the Count() function works.
+
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
+
+---
+
+## Day 32: February 6, 2019
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
+
+## Day 33: February 7, 2019
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
+
+## Day 34: February 8, 2019
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
+
+## Day 35: February 9, 2019
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
