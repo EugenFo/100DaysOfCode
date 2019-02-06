@@ -313,11 +313,11 @@ Next step is to deal with MongoDB!
 
 ## Day 32: February 6, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked on get all data from MongoDB as JSON
 
-**Thoghts**:
+**Thoghts**: Still don't work as expected... I somehow need to convert bson to json...
 
-**Link to Work**:
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
 
