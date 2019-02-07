@@ -323,11 +323,11 @@ Next step is to deal with MongoDB!
 
 ## Day 33: February 7, 2019
 
-**Today's Progress**:
+**Today's Progress**: Continue working on fetching all entries from db
 
-**Thoghts**:
+**Thoghts**: It still doesn't show the data in a nice JSON format, but for my purpose it is enough. However I don't even know why I code this, because I can just query the mongodb... I also know why it is not working, but to fix this issue it would cost too much time. Maybe I will work on this later. 
 
-**Link to Work**:
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
 
