@@ -333,6 +333,16 @@ Next step is to deal with MongoDB!
 
 ## Day 34: February 8, 2019
 
+**Today's Progress**: Refactoring the code a bit
+
+**Thoghts**: Finally I'm using the struct that I created since the beginning.
+
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
+
+---
+
+## Day 35: February 9, 2019
+
 **Today's Progress**:
 
 **Thoghts**:
@@ -341,7 +351,57 @@ Next step is to deal with MongoDB!
 
 ---
 
-## Day 35: February 9, 2019
+## Day 36: February 10, 2019
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
+
+## Day 37: February 11, 2019
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
+
+## Day 38: February 12, 2019
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
+
+## Day 39: February 13, 20199
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
+
+## Day 40: February 14, 2019
+
+**Today's Progress**:
+
+**Thoghts**:
+
+**Link to Work**:
+
+---
+
+## Day 41: February 15, 2019
 
 **Today's Progress**:
 
