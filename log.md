@@ -303,7 +303,7 @@ Next step is to deal with MongoDB!
 
 ## Day 31: February 5, 2019
 
-**Today's Progress**: Worked on writing an auto increment function for the id. 
+**Today's Progress**: Worked on writing an auto increment function for the id.
 
 **Thoughts**: I'm not really using the _id field from MongoDB. I want to see at the first sight the amount of entries. It took a long time to look up how the filter argument of the Count() function works.
 
@@ -325,7 +325,7 @@ Next step is to deal with MongoDB!
 
 **Today's Progress**: Continue working on fetching all entries from db
 
-**Thoghts**: It still doesn't show the data in a nice JSON format, but for my purpose it is enough. However I don't even know why I code this, because I can just query the mongodb... I also know why it is not working, but to fix this issue it would cost too much time. Maybe I will work on this later. 
+**Thoghts**: It still doesn't show the data in a nice JSON format, but for my purpose it is enough. However I don't even know why I code this, because I can just query the mongodb... I also know why it is not working, but to fix this issue it would cost too much time. Maybe I will work on this later.
 
 **Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
@@ -343,11 +343,11 @@ Next step is to deal with MongoDB!
 
 ## Day 35: February 9, 2019
 
-**Today's Progress**:
+**Today's Progress**: Created an Page, where the shorturl is displayed.
 
-**Thoghts**:
+**Thoghts**: To display the shorturl with the Hostname is not difficult, but to create a link on which the user can click and is getting redirected is not that easy.
 
-**Link to Work**:
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
 
