@@ -353,11 +353,11 @@ Next step is to deal with MongoDB!
 
 ## Day 36: February 10, 2019
 
-**Today's Progress**:
+**Today's Progress**: Managed to create and link which redirects to the longurl.
 
-**Thoghts**:
+**Thoghts**: I also looked up how to prevent users accessing the /save/ path, but it is already providing and 405 status code, however it doesn't show it.
 
-**Link to Work**:
+**Link to Work**: [url-shortener-go](https://github.com/EugenFo/url-shortener-go)
 
 ---
 
