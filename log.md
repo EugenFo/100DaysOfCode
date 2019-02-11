@@ -363,11 +363,11 @@ Next step is to deal with MongoDB!
 
 ## Day 37: February 11, 2019
 
-**Today's Progress**:
+**Today's Progress**: Learned a bit how unit testing in go works
 
-**Thoghts**:
+**Thoghts**: This is the first time I wrote unit tests.
 
-**Link to Work**:
+**Link to Work**: [Day 37](https://github.com/EugenFo/100DaysOfCode/tree/master/day037 "Day37")
 
 ---
 
